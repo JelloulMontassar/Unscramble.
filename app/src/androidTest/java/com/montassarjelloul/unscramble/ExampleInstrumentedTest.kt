@@ -1,4 +1,4 @@
-package com.iset.unscramble
+package com.montassarjelloul.unscramble
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.iset.unscramble.ui.game
+package com.montassarjelloul.unscramble.ui.game
 
 const val MAX_NO_OF_WORDS = 10
 const val SCORE_INCREASE = 20

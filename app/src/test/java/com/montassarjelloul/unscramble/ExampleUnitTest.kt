@@ -1,4 +1,4 @@
-package com.iset.unscramble
+package com.montassarjelloul.unscramble
 
 import org.junit.Test
 
